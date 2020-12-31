@@ -67,7 +67,10 @@ data:
              "port": 6379,
              "username": "",
              "password": "",
-             "database": "0"
+             "database": "0",
+             "host": "11.2.3.75",
+             "port": "27017",
+             "database": "nodebb"
          }
      }
 
